@@ -1,7 +1,11 @@
 # wallets文件标题:
-| owner    | salt    | wallet_address    | contract_version    | network |
+| owner    | salt    | wallet_address    | wallet_factory    | network |
 | -------- | -------- | -------- | -------- | -------- |
 
-# contractInfo文件标题:
-| contract_version | wallet_factory | master_copy |
-| ----- | -------- | -------- |
+# walletFactory2masterCopy文件标题:
+| walletFactory | masterCopy |
+| -------- | -------- |
+
+# masterCopy2contractVersion文件标题:
+| masterCopy | contractVersion |
+| ----- | -------- |
