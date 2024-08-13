@@ -3,9 +3,9 @@
 | -------- | -------- | -------- | -------- | -------- |
 
 # walletFactory2masterCopy文件标题:
-| walletFactory | masterCopy |
+| wallet_factory | master_copy |
 | -------- | -------- |
 
 # masterCopy2contractVersion文件标题:
-| masterCopy | contractVersion |
+| master_copy | contract_version |
 | ----- | -------- |
