@@ -1,5 +1,5 @@
 {
-    "isDecentralization": false,
+    "isDecentralization": true,
     "transferDapp": "https://tx1351.loopring.io",
     "ethereumRpcProvider": ""
 }
